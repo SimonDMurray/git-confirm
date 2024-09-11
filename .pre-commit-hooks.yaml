@@ -1,0 +1,6 @@
+---
+- id: git-confirm
+  name: check patterns
+  description: Checks if you want to commit files matching specified patterns
+  language: script
+  entry: ./hook.sh
